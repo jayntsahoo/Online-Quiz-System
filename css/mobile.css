@@ -1,0 +1,237 @@
+@media screen and (max-width: 767px) {
+  .sidenav {
+      height: auto;
+      padding: 15px;
+  }
+  .row.content {
+      height:auto;
+  } 
+body {
+      background-color:  #CE93D8;
+      font-style: cambria;
+}
+
+
+.container {
+      padding-left: 50px;
+      padding-right: 50px;
+      margin-right: auto;
+      margin-left: auto;
+}
+
+.header {
+      background-color: //#AB47BC;
+      margin-top:0;
+      color: white;
+}
+
+.heading {
+      font-family: elephant;
+      font-size:14px;
+      font-weight: bold;
+      color:#FFFF00;
+}
+
+.tagline {
+      font-family: forte;
+      font-size: 10px;
+      color: white;
+}
+
+.marque {
+      font-family: cambria;
+      font-weight: bold;
+      font-size: 14px;
+      color:#F44336;
+      background-color: #E1BEE7;
+      border-left: 1px solid purple;
+      border-right: 1px solid purple;
+}
+.navbar-toggle{
+	margin-right: 22px;
+}
+
+.logoimg {
+      margin-left: 18px;
+}
+
+.contents {
+      background-color: #E1BEE7;
+      border-left: 1px solid purple;
+      border-right: 1px solid purple;
+}
+
+.jumbotron > p {
+      padding-top: 20px;
+      padding-bottom: 20px;
+      background-color: #6A1B9A;
+      color:white;
+      font-size: 12px;
+}
+
+.wellhead {
+      background-color: #4A148C;
+      border:none;
+      color: white;
+}
+
+.well {
+      background-color: #9C27B0;
+      padding: 10px;
+      font-family: cambria;
+      font-weight: bold;
+      border:none;
+      color: white;
+      border-radius: 10px;
+      font-size: 14px;
+}
+
+.allheading {
+      background-color: #9C27B0;
+      text-align: center;
+      font-family: cambria;
+      font-weight: bold;
+      padding: 8px;
+      color: white;
+      border-radius: 15px;
+      padding: auto;
+      font-size:20px;
+}
+
+.subheading{
+      background-color: #BA68C8;
+      text-align: center;
+      font-family: cambria;
+      font-weight: bold;
+      padding: 5px;
+      color: white;
+}
+.panel-heading{
+      background-color: #BA68C8;
+      font-weight: bold;
+      color:white;
+      font-family:cambria;
+      font-size: 17px;
+}
+
+.panel-body{
+      background-color: #F3E5F5;
+      font-family:cambria;
+      font-size:16px;
+      color: black;
+}
+
+.topic >a:hover{
+      background-color: #6A1B9A;
+      color:white;
+      font-size:22px;
+}
+
+a:link {     
+      color:white;
+      text-decoration:none;
+}
+
+a:visited {
+      color:white;
+      text-decoration:none;
+}
+
+a:hover   {
+      color:#FFFF00;
+      font-size:18px;
+      text-decoration:none;
+}
+
+a:active  {
+      color:yellow;
+      text-decoration:none;
+}
+
+.btn-color{
+      background-color: #9C27B0;
+      color:white;
+      font-size: 16px;
+      font-weight: bold;
+}
+
+.footer {
+      font-weight: bold;
+      font-size: 11px;
+}
+
+.footer a:hover {
+      font-weight: bold;
+      font-size: 12px;
+}
+
+.footerpara {
+		font-size: 12px;
+}
+
+
+/* Navigation bar start here */
+
+.navbar-inverse .navbar-nav > li > a {
+            color: white;
+            font-size: 18px; 
+            
+}
+
+.navbar-inverse .navbar-nav > li > a {
+			font-size: 18px;
+			margin-left:10px;
+			margin-left: 15px;
+		    margin-right: 15px;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus {
+            color: white;
+            background-color: #4A148C;
+            border-radius: 0px;
+            font-size: 20px;
+            color: #FFFF00;
+            padding: 10px;
+            border:none;
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+            color: white;
+            background-color: #4A148C;
+            color: #FFFF00;
+            font-size: 14px;
+            margin-left: 15px;
+            margin-right: 15px;
+}
+
+.navbar-inverse {
+            background-color: #7B1FA2;
+            font-weight: bold;
+            border-radius: 0px;
+            border:none;
+            font-style: cambria;
+            font-size: 18px;
+}
+
+.navbar-inverse .navbar-brand {
+            padding: 0; 
+}
+
+.navbar-right {
+            border-color: none;
+}
+
+.navbar-brand {
+      float: left;
+      padding: 2px;
+      font-size: 18px;
+      line-height: 20px;
+}
+
+/* Navigation bar end Here */
+
+
+}

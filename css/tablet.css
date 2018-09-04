@@ -1,0 +1,213 @@
+@media screen and (max-width: 991px) {
+.sidenav {
+      height: auto;
+      padding: 15px;
+  }
+
+.row.content {
+      height:auto;
+  } 
+  
+body {
+      background-color:  #CE93D8;
+      font-style: cambria;
+}
+
+.container {
+      padding-left: 50px;
+      padding-right: 50px;
+      margin-right: auto;
+      margin-left: auto;
+}
+
+.header {
+      background-color: #AB47BC;
+      margin-top:0;
+      color: white;
+}
+
+.heading {
+      font-family: georgia;
+      font-size:25px;
+      font-weight: bold;
+      color:#FFFF00;
+}
+
+.tagline {
+      font-family: forte;
+      font-size: 20px;
+      color: white;
+}
+
+.marque {
+      font-family: cambria;
+      font-weight: bold;
+      font-size: 14px;
+      color:#F44336;
+      background-color: #E1BEE7;
+      border-left: 1px solid purple;
+      border-right: 1px solid purple;
+}
+.navbar-toggle{
+	margin-right: 22px;
+}
+
+.logoimg {
+      height:40px;
+      width:40px;
+}
+
+.contents {
+      background-color: #E1BEE7;
+      border-left: 1px solid purple;
+      border-right: 1px solid purple;
+}
+
+.jumbotron {
+      padding-left: 5px;
+      padding-right: 5px;
+      background-color: #6A1B9A;
+      color:white;
+      font-size: 12px;
+}
+
+.wellhead {
+      background-color: #4A148C;
+      border:none;
+      color: white;
+}
+
+.well {
+      background-color: #9C27B0;
+      padding: 10px;
+      font-family: cambria;
+      font-weight: bold;
+      border:none;
+      color: white;
+      font-size: 14px;
+}
+
+.allheading {
+      background-color: #9C27B0;
+      text-align: center;
+      font-family: cambria;
+      font-weight: bold;
+      padding: 8px;
+      color: white;
+      padding: auto;
+      font-size:13px;
+}
+
+.subheading{
+      background-color: #BA68C8;
+      text-align: center;
+      font-family: cambria;
+      font-weight: bold;
+      padding: 5px;
+      color: white;
+}
+.panel-heading{
+      background-color: #BA68C8;
+      font-weight: bold;
+      color:white;
+      font-family:cambria;
+      font-size: 14px;
+}
+
+.panel-body{
+      background-color: #F3E5F5;
+      font-family:cambria;
+      font-size:13px;
+      color: black;
+}
+
+.topic >a:hover{
+      background-color: #6A1B9A;
+      color:white;
+      font-size:22px;
+}
+
+a:link {     
+      color:white;
+      text-decoration:none;
+}
+
+a:visited {
+      color:white;
+      text-decoration:none;
+}
+
+a:hover   {
+      color:#FFFF00;
+      font-size:16px;
+      text-decoration:none;
+}
+
+a:active  {
+      color:yellow;
+      text-decoration:none;
+}
+
+.btn-color{
+      background-color: #9C27B0;
+      color:white;
+      font-size: 16px;
+      font-weight: bold;
+}
+
+.footer {
+      font-weight: bold;
+      font-size: 12px;
+}
+
+.footer a:hover {
+      font-weight: bold;
+      font-size: 13px;
+}
+
+.footerpara {
+		font-size: 12px;
+}
+
+
+/* Navigation bar start here */
+
+.navbar-inverse .navbar-nav > li > a {
+			font-size: 10px;
+			color: red;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus {
+            color: white;
+            //background-color: #4A148C;
+            border-radius: 0px;
+            font-size: 10px;
+            color: #FFFF00;
+            padding: 10px;
+            border:none;
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+            background-color: #4A148C;
+            color: #FFFF00;
+            font-size: 10px;
+}
+
+.navbar-inverse .navbar-brand {
+            padding: 0; 
+}
+
+.navbar-right {
+            border-color: none;
+}
+
+.navbar-brand {
+      		float: left;
+}
+
+/* Navigation bar end Here */
+
+}
